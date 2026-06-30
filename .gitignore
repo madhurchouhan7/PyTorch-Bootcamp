@@ -1,1 +1,3 @@
 /.venv
+*pth
+testing/notebooks/data/MNIST/*
